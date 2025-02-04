@@ -1,0 +1,1171 @@
+[
+  {
+    "questionText": "What is 'こんにちは' in English?",
+    "options": ["Goodbye", "Hello", "Good morning", "Good night"],
+    "correctAnswerIndex": 1,
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "What is 'さようなら' in English?",
+    "options": ["Hello", "Goodbye", "Good morning", "Good night"],
+    "correctAnswerIndex": 1,
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "What is 'おはよう' in English?",
+    "options": ["Hello", "Goodbye", "Good morning", "Good night"],
+    "correctAnswerIndex": 2,
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "What is 'おやすみ' in English?",
+    "options": ["Good night", "Good morning", "Hello", "Goodbye"],
+    "correctAnswerIndex": 0,
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "What is 'すみません' in English?",
+    "options": ["Excuse me", "Sorry", "Thank you", "Please"],
+    "correctAnswerIndex": 0,
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "What is 'はい' in English?",
+    "options": ["No", "Yes", "Please", "Excuse me"],
+    "correctAnswerIndex": 1,
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "What is 'いいえ' in English?",
+    "options": ["Yes", "No", "Please", "Excuse me"],
+    "correctAnswerIndex": 1,
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "What is 'お願いします(おねがいします)' in English?",
+    "options": ["Thank you", "Please", "Sorry", "Excuse me"],
+    "correctAnswerIndex": 1,
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "What is 'ごめんなさい' in English?",
+    "options": ["Please", "Thank you", "Excuse me", "Sorry"],
+    "correctAnswerIndex": 3,
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "What is 'お元気ですか(おげんきですか)' in English?",
+    "options": ["How are you?", "I'm fine", "Thank you", "Sorry"],
+    "correctAnswerIndex": 0,
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "What is '大丈夫(だいじょうぶ)' in English?",
+    "options": ["Alright", "Not good", "Happy", "Sad"],
+    "correctAnswerIndex": 0,
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "What is 'すごい' in English?",
+    "options": ["Amazing", "Boring", "Interesting", "Cute"],
+    "correctAnswerIndex": 0,
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "What is 'かわいい' in English?",
+    "options": ["Cool", "Cute", "Interesting", "Boring"],
+    "correctAnswerIndex": 1,
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "What is '面白い(おもしろい)' in English?",
+    "options": ["Cool", "Interesting", "Comfortable", "Boring"],
+    "correctAnswerIndex": 1,
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "What is '疲れた(つかれた)' in English?",
+    "options": ["Sad", "Tired", "Angry", "Happy"],
+    "correctAnswerIndex": 1,
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "What is '楽しい(たのしい)' in English?",
+    "options": ["Sad", "Fun", "Angry", "Happy"],
+    "correctAnswerIndex": 1,
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "What is '悲しい(かなしい)' in English?",
+    "options": ["Happy", "Sad", "Tired", "Fun"],
+    "correctAnswerIndex": 1,
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "What is '怒っている(おこっている)' in English?",
+    "options": ["Happy", "Sad", "Angry", "Excited"],
+    "correctAnswerIndex": 2,
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "What is '嬉しい(うれしい)' in English?",
+    "options": ["Happy", "Sad", "Angry", "Tired"],
+    "correctAnswerIndex": 0,
+    "difficulty": "easy"
+  },
+  {
+    "questionText": "What is '美味しい(おいしい)' in English?",
+    "options": ["Delicious", "Tasty", "Yummy", "Good"],
+    "correctAnswerIndex": 0,
+    "difficulty": "easy"
+  },
+    {
+      "questionText": "What is '忙しい(いそがしい)' in English?",
+      "options": ["Free", "Busy", "Tired", "Relaxed"],
+      "correctAnswerIndex": 1,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '暇(ひま)' in English?",
+      "options": ["Busy", "Free", "Tired", "Happy"],
+      "correctAnswerIndex": 1,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is 'お腹が空いた(おなかがすいた)' in English?",
+      "options": ["Thirsty", "Hungry", "Full", "Tired"],
+      "correctAnswerIndex": 1,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '喉が渇いた(のどがかわいた)' in English?",
+      "options": ["Thirsty", "Hungry", "Full", "Tired"],
+      "correctAnswerIndex": 0,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '寒い(さむい)' in English?",
+      "options": ["Hot", "Cold", "Warm", "Cool"],
+      "correctAnswerIndex": 1,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '暑い(あつい)' in English?",
+      "options": ["Cold", "Hot", "Warm", "Cool"],
+      "correctAnswerIndex": 1,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '暖かい(あたたかい)' in English?",
+      "options": ["Cold", "Hot", "Warm", "Cool"],
+      "correctAnswerIndex": 2,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '涼しい(すずしい)' in English?",
+      "options": ["Hot", "Cold", "Warm", "Cool"],
+      "correctAnswerIndex": 3,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '恥ずかしい(はずかしい)' in English?",
+      "options": ["Comfortable", "Painful", "Embarrassed", "Angry"],
+      "correctAnswerIndex": 2,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is 'つまらない' in English?",
+      "options": ["Boring", "Interesting", "Cool", "Cute"],
+      "correctAnswerIndex": 0,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is 'かっこいい' in English?",
+      "options": ["Cute", "Interesting", "Cool", "Fun"],
+      "correctAnswerIndex": 2,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '楽(らく)' in English?",
+      "options": ["Painful", "Comfortable", "Heavy", "Light"],
+      "correctAnswerIndex": 1,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '苦しい(くるしい)' in English?",
+      "options": ["Comfortable", "Painful", "Heavy", "Light"],
+      "correctAnswerIndex": 1,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '重い(おもい)' in English?",
+      "options": ["Light", "Heavy", "Fast", "Slow"],
+      "correctAnswerIndex": 1,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '軽い(かるい)' in English?",
+      "options": ["Heavy", "Light", "Fast", "Slow"],
+      "correctAnswerIndex": 1,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '早い(はやい)' in English?",
+      "options": ["Slow", "Fast", "Light", "Heavy"],
+      "correctAnswerIndex": 1,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '遅い(おそい)' in English?",
+      "options": ["Fast", "Slow", "Heavy", "Light"],
+      "correctAnswerIndex": 1,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '高い(たかい)' in English?",
+      "options": ["Cheap", "Expensive", "Heavy", "Light"],
+      "correctAnswerIndex": 1,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '安い(やすい)' in English?",
+      "options": ["Expensive", "Cheap", "Heavy", "Light"],
+      "correctAnswerIndex": 1,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '食べる(たべる)' in English?",
+      "options": ["To drink", "To eat", "To see", "To hear"],
+      "correctAnswerIndex": 1,
+      "difficulty": "easy"
+    },
+
+    {
+      "questionText": "What is '飲む(のむ)' in English?",
+      "options": ["To eat", "To see", "To drink", "To speak"],
+      "correctAnswerIndex": 2,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '見る(みる)' in English?",
+      "options": ["To see", "To hear", "To speak", "To read"],
+      "correctAnswerIndex": 0,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '聞く(きく)' in English?",
+      "options": ["To speak", "To read", "To write", "To hear/listen"],
+      "correctAnswerIndex": 3,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '話す(はなす)' in English?",
+      "options": ["To read", "To write", "To speak", "To walk"],
+      "correctAnswerIndex": 2,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '読む(よむ)' in English?",
+      "options": ["To write", "To walk", "To run", "To read"],
+      "correctAnswerIndex": 3,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '書く(かく)' in English?",
+      "options": ["To write", "To walk", "To run", "To swim"],
+      "correctAnswerIndex": 0,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '歩く(あるく)' in English?",
+      "options": ["To run", "To swim", "To walk", "To sleep"],
+      "correctAnswerIndex": 2,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '走る(はしる)' in English?",
+      "options": ["To swim", "To sleep", "To wake up", "To run"],
+      "correctAnswerIndex": 3,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '泳ぐ(およぐ)' in English?",
+      "options": ["To sleep", "To swim", "To wake up", "To buy"],
+      "correctAnswerIndex": 1,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '寝る(ねる)' in English?",
+      "options": ["To wake up", "To buy", "To sleep", "To sell"],
+      "correctAnswerIndex": 2,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '起きる(おきる)' in English?",
+      "options": ["To sleep", "To wake up", "To buy", "To sell"],
+      "correctAnswerIndex": 1,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '買う(かう)' in English?",
+      "options": ["To sell", "To make", "To break", "To buy"],
+      "correctAnswerIndex": 3,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '売る(うる)' in English?",
+      "options": ["To buy", "To sell", "To make", "To break"],
+      "correctAnswerIndex": 1,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '作る(つくる)' in English?",
+      "options": ["To break", "To open", "To make", "To close"],
+      "correctAnswerIndex": 2,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '壊す(こわす)' in English?",
+      "options": ["To open", "To close", "To wear", "To break"],
+      "correctAnswerIndex": 3,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '開ける(あける)' in English?",
+      "options": ["To open", "To close", "To wear", "To take off (clothes)"],
+      "correctAnswerIndex": 0,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '閉める(しめる)' in English?",
+      "options": ["To open", "To wear", "To close", "To take off (clothes)"],
+      "correctAnswerIndex": 2,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '着る(きる)' in English?",
+      "options": ["To close", "To wear", "To take off (clothes)", "To wash"],
+      "correctAnswerIndex": 1,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '脱ぐ(ぬぐ)' in English?",
+      "options": ["To wear", "To wash", "To wait", "To take off (clothes)"],
+      "correctAnswerIndex": 3,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '洗う(あらう)' in English?",
+      "options": ["To wait", "To meet", "To wash", "To return"],
+      "correctAnswerIndex": 2,
+      "difficulty": "easy"
+    },
+
+    {
+      "questionText": "What is '待つ(まつ)' in English?",
+      "options": ["To wash", "To wait", "To meet", "To return"],
+      "correctAnswerIndex": 1,
+      "difficulty": "easy"
+    },
+
+    {
+      "questionText": "What is '会う(あう)' in English?",
+      "options": ["To wait", "To return", "To go", "To meet"],
+      "correctAnswerIndex": 3,
+      "difficulty": "easy"
+    },
+
+    {
+      "questionText": "What is '帰る(かえる)' in English?",
+      "options": ["To meet", "To go", "To return", "To come"],
+      "correctAnswerIndex": 2,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '行く(いく)' in English?",
+      "options": ["To return", "To come", "To live", "To go"],
+      "correctAnswerIndex": 3,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '来る(くる)' in English?",
+      "options": ["To go", "To come", "To live", "To work"],
+      "correctAnswerIndex": 1,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '住む(すむ)' in English?",
+      "options": ["To come", "To work", "To live", "To rest"],
+      "correctAnswerIndex": 2,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '働く(はたらく)' in English?",
+      "options": ["To live", "To rest", "To play", "To work"],
+      "correctAnswerIndex": 3,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '休む(やすむ)' in English?",
+      "options": ["To work", "To play", "To study", "To rest"],
+      "correctAnswerIndex": 3,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '勉強する(べんきょうする)' in English?",
+      "options": ["To play", "To teach", "To remember", "To study"],
+      "correctAnswerIndex": 3,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '教える(おしえる)' in English?",
+      "options": ["To study", "To teach", "To remember", "To forget"],
+      "correctAnswerIndex": 1,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '覚える(おぼえる)' in English?",
+      "options": ["To teach", "To forget", "To remember", "To think"],
+      "correctAnswerIndex": 2,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '忘れる(わすれる)' in English?",
+      "options": ["To remember", "To think", "To decide", "To forget"],
+      "correctAnswerIndex": 3,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '考える(かんがえる)' in English?",
+      "options": ["To forget", "To think", "To decide", "To begin"],
+      "correctAnswerIndex": 1,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '決める(きめる)' in English?",
+      "options": ["To think", "To begin", "To decide", "To end"],
+      "correctAnswerIndex": 2,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '始める(はじめる)' in English?",
+      "options": ["To decide", "To end", "To change", "To begin"],
+      "correctAnswerIndex": 3,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '終わる(おわる)' in English?",
+      "options": ["To begin", "To end", "To change", "To use"],
+      "correctAnswerIndex": 1,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '変える(かえる)' in English?",
+      "options": ["To end", "To use", "To change", "To hold"],
+      "correctAnswerIndex": 2,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '使う(つかう)' in English?",
+      "options": ["To change", "To hold", "To take out", "To use"],
+      "correctAnswerIndex": 3,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '持つ(もつ)' in English?",
+      "options": ["To use", "To take out", "To hold", "To put in"],
+      "correctAnswerIndex": 2,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '出す(だす)' in English?",
+      "options": ["To hold", "To take out", "To put in", "To send"],
+      "correctAnswerIndex": 1,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '入れる(いれる)' in English?",
+      "options": ["To take out", "To send", "To receive", "To put in"],
+      "correctAnswerIndex": 3,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '送る(おくる)' in English?",
+      "options": ["To put in", "To receive", "To send", "To search"],
+      "correctAnswerIndex": 2,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '受け取る(うけとる)' in English?",
+      "options": ["To send", "To search", "To find", "To receive"],
+      "correctAnswerIndex": 3,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '探す(さがす)' in English?",
+      "options": ["To receive", "To search", "To find", "To help"],
+      "correctAnswerIndex": 1,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '見つける(みつける)' in English?",
+      "options": ["To search", "To help", "To stop", "To find"],
+      "correctAnswerIndex": 3,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '助ける(たすける)' in English?",
+      "options": ["To find", "To stop", "To help", "To continue"],
+      "correctAnswerIndex": 2,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '止める(とめる)' in English?",
+      "options": ["To help", "To stop", "To continue", "To answer"],
+      "correctAnswerIndex": 1,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '続ける(つづける)' in English?",
+      "options": ["To stop", "To answer", "To ask", "To continue"],
+      "correctAnswerIndex": 3,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '答える(こたえる)' in English?",
+      "options": ["To continue", "To ask", "To answer", "To laugh"],
+      "correctAnswerIndex": 2,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '質問する(しつもんする)' in English?",
+      "options": ["To answer", "To ask", "To laugh", "To cry"],
+      "correctAnswerIndex": 1,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '笑う(わらう)' in English?",
+      "options": ["To ask", "To cry", "To laugh", "To shout"],
+      "correctAnswerIndex": 2,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '泣く(なく)' in English?",
+      "options": ["To laugh", "To shout", "To touch", "To cry"],
+      "correctAnswerIndex": 3,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '叫ぶ(さけぶ)' in English?",
+      "options": ["To cry", "To shout", "To touch", "To feel"],
+      "correctAnswerIndex": 1,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '触る(さわる)' in English?",
+      "options": ["To shout", "To feel", "To touch", "To move"],
+      "correctAnswerIndex": 2,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '感じる(かんじる)' in English?",
+      "options": ["To touch", "To move", "To feel", "To clean"],
+      "correctAnswerIndex": 2,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '動く(うごく)' in English?",
+      "options": ["To feel", "To move", "To clean", "To cook"],
+      "correctAnswerIndex": 1,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '掃除する(そうじする)' in English?",
+      "options": ["To move", "To cook", "To clean", "To feel"],
+      "correctAnswerIndex": 2,
+      "difficulty": "easy"
+    },
+    {
+      "questionText": "What is '遊ぶ(あそぶ)' in English?",
+      "options": ["To rest", "To study", "To play", "To teach"],
+      "correctAnswerIndex": 2,
+      "difficulty": "easy"
+    },
+  {
+    "questionText": "私(わたし)○学生(がくせい)です。",
+    "options": ["は", "が", "を", "に"],
+    "correctAnswerIndex": 0,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "私(わたし)○行きます。",
+    "options": ["は", "が", "を", "に"],
+    "correctAnswerIndex": 1,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "りんご○食(た)べます。",
+    "options": ["は", "が", "を", "に"],
+    "correctAnswerIndex": 2,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "学校(がっこう)○行(い)きます。",
+    "options": ["は", "が", "を", "に"],
+    "correctAnswerIndex": 3,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "図書館(としょかん)○勉強(べんきょう)します。",
+    "options": ["に", "が", "を", "で"],
+    "correctAnswerIndex": 3,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "友達(ともだち)○話(はな)します。",
+    "options": ["ぎ", "が", "と", "で"],
+    "correctAnswerIndex": 2,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "私(わたし)○本(ほん)です。",
+    "options": ["の", "が", "を", "に"],
+    "correctAnswerIndex": 0,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "家(いえ)○出(で)ます。",
+    "options": ["に", "も", "を", "が"],
+    "correctAnswerIndex": 3,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "駅(えき)○歩(ある)きます。",
+    "options": ["に", "まで", "を", "と"],
+    "correctAnswerIndex": 1,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "りんご○バナナを買(か)いました。",
+    "options": ["と", "を", "も", "さえ"],
+    "correctAnswerIndex": 0,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "アメリカ○国(くに)に行(い)きたいです。",
+    "options": ["など", "の", "といった", "ような"],
+    "correctAnswerIndex": 2,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "日本(にほん)○旅行(りょこう)します。",
+    "options": ["と", "を", "へ", "で"],
+    "correctAnswerIndex": 2,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "雨(あめ)が降(ふ)っている○、外(そと)に出(で)ません。",
+    "options": ["から", "ので", "のに", "にもかかわらず"],
+    "correctAnswerIndex": 1,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "音楽(おんがく)を聞(き)き○勉強(べんきょう)します。",
+    "options": ["つつ", "ながら", "ように", "ため"],
+    "correctAnswerIndex": 1,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "このボタンを押(お)す○、開(ひら)きます。",
+    "options": ["に", "ば", "と", "なら"],
+    "correctAnswerIndex": 2,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "少(すこ)し○食(た)べてください。",
+    "options": ["のみ", "でも", "さえ", "ほど"],
+    "correctAnswerIndex": 1,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "明日(あした)から運動(うんどう)する○です。",
+    "options": ["つもり", "よう", "なら", "ことに"],
+    "correctAnswerIndex": 0,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "彼(かれ)は「ありがとう」○言(い)いました。",
+    "options": ["って", "と", "を", "に"],
+    "correctAnswerIndex": 1,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "今日は暑(あつ)い○ですね。",
+    "options": ["そう", "ので", "てんき", "もう"],
+    "correctAnswerIndex": 0,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "勉強(べんきょう)○している。",
+    "options": ["ので", "しか", "より", "ばかり"],
+    "correctAnswerIndex": 3,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "日本語(にほんご)が話(はな)せる○勉強(べんきょう)しています。",
+    "options": ["かもしれない", "ように", "ので", "から"],
+    "correctAnswerIndex": 1,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "食(た)べ○と体(からだ)に良(よ)くないです。",
+    "options": ["すぎれば", "すぎて", "すぎる", "すぎても"],
+    "correctAnswerIndex": 2,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "○雨(あめ)が降(ふ)ったら、家(いえ)にいます。",
+    "options": ["もし", "たら", "なら", "れば"],
+    "correctAnswerIndex": 0,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "明日(あした)は雪(ゆき)が降(ふ)る○。",
+    "options": ["かもしれない", "よりも", "わけ", "ながら"],
+    "correctAnswerIndex": 0,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "説明(せつめい)○にやってください。",
+    "options": ["まま", "ように", "ても", "どおり"],
+    "correctAnswerIndex": 3,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "お金(おかね)があれば幸(しあわ)せという○ない。",
+    "options": ["のは", "わけで", "ほど", "くらい"],
+    "correctAnswerIndex": 1,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "その問題(もんだい)は思(おも)った○難(むずか)しくないです。",
+    "options": ["ぐらい", "くらい", "ほど", "ばかり"],
+    "correctAnswerIndex": 2,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "勉強(べんきょう)○、試験(しけん)に合格(ごうかく)できます。",
+    "options": ["する", "すれば", "するなら", "しても"],
+    "correctAnswerIndex": 1,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "良(よ)い天気(てんき)○、外(そと)に出(で)ません。",
+    "options": ["だけど", "なので", "ので", "ながら"],
+    "correctAnswerIndex": 0,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "日本(にほん)に行(い)く○、お土産(おみやげ)を買(か)うつもりです。",
+    "options": ["たら", "なら", "ば", "と"],
+    "correctAnswerIndex": 1,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "毎日(まいにち)運動(うんどう)する○しています。",
+    "options": ["ことに", "ように", "つもりに", "はずに"],
+    "correctAnswerIndex": 1,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "何(なに)をし○駄目(だめ)です。",
+    "options": ["に", "ながら", "つつ", "ても"],
+    "correctAnswerIndex": 3,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "日本(にほん)の文化(ぶんか)は面白(おもしろ)い○、歴史(れきし)も深(ふか)いです。",
+    "options": ["が", "ばかりでなく", "といった", "なのに"],
+    "correctAnswerIndex": 1,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "この店(みせ)は他(ほか)の店(みせ)○安(やす)いです。",
+    "options": ["より", "から", "に", "で"],
+    "correctAnswerIndex": 0,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "日本語(にほんご)の勉強(べんきょう)○、辞書(じしょ)を買(か)いました。",
+    "options": ["ように", "のに", "から", "のために"],
+    "correctAnswerIndex": 3,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "それ○、私(わたし)がやります。",
+    "options": ["で", "なのに", "ならば", "の"],
+    "correctAnswerIndex": 2,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "宿題(しゅくだい)を○遊(あそ)びました。",
+    "options": ["しようとして", "もっと", "しなければ", "せずに"],
+    "correctAnswerIndex": 3,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "レポートは明日(あした)○提出(ていしゅつ)してください。",
+    "options": ["までは", "までに", "までで", "まで"],
+    "correctAnswerIndex": 1,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "一緒(いっしょ)に勉強(べんきょう)し○。",
+    "options": ["ましょう", "ない", "おわる", "ないで"],
+    "correctAnswerIndex": 0,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "○の本(ほん)があります。",
+    "options": ["おおきな", "いっかい", "ちいさい", "たくさん"],
+    "correctAnswerIndex": 3,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "これ○で大丈夫(だいじょうぶ)です。",
+    "options": ["のみ", "ばかり", "しか", "だけ"],
+    "correctAnswerIndex": 3,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "昨日(きのう)映画(えいが)を見(み)まし○。",
+    "options": ["だ", "た", "て", "です"],
+    "correctAnswerIndex": 1,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "宿題(しゅくだい)が○終(お)わっていません。",
+    "options": ["もう", "さらに", "ずっと", "まだ"],
+    "correctAnswerIndex": 3,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "○頑張(がんば)ってください。",
+    "options": ["もう", "ない", "でも", "もっと"],
+    "correctAnswerIndex": 3,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "2時間(じかん)○待(ま)ちました。",
+    "options": ["を", "に", "くらい", "で"],
+    "correctAnswerIndex": 2,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "日本(にほん)へ行(い)く○、ガイドブックを買(か)ったほうがいいです。",
+    "options": ["なら", "たら", "ば", "と"],
+    "correctAnswerIndex": 0,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "ゲーム○している。",
+    "options": ["に", "か", "は", "ばかり"],
+    "correctAnswerIndex": 3,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "計画(けいかく)が進(すす)み○あります。",
+    "options": ["ながら", "ように", "ため", "つつ"],
+    "correctAnswerIndex": 3,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "仕事(しごと)が忙(いそが)しい○から、遅(おそ)れました。",
+    "options": ["ものです", "こと", "はず", "わけ"],
+    "correctAnswerIndex": 3,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "犬(いぬ)○猫(ねこ)がいます。",
+    "options": ["のような", "に", "そうな", "ような"],
+    "correctAnswerIndex": 0,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "時間(じかん)のある○宿題(しゅくだい)を終(お)わらせてください。",
+    "options": ["あいだに", "ながら", "ついでに", "うちに"],
+    "correctAnswerIndex": 3,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "時間(じかん)が○行(い)きます。",
+    "options": ["ならば", "であれば", "だったら", "あれば"],
+    "correctAnswerIndex": 3,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "十分(じゅうぶん)に説明(せつめい)した○、まだわからない。",
+    "options": ["と", "ので", "くらい", "のに"],
+    "correctAnswerIndex": 3,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "明日(あした)は雨(あめ)が降(ふ)る○。",
+    "options": ["ので", "かもしれない", "と", "だったのに"],
+    "correctAnswerIndex": 1,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "もっと日本語(にほんご)を勉強(べんきょう)しよう○思(おも)います。",
+    "options": ["と", "に", "ように", "ために"],
+    "correctAnswerIndex": 0,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "日本(にほん)の料理(りょうり)○、お祭り(まつり)などが楽し(たの)しいです。",
+    "options": ["に", "と", "とか", "なので"],
+    "correctAnswerIndex": 2,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "日本語(にほんご)が話(はな)せる○なりました。",
+    "options": ["ことに", "はずに", "つもりに", "ように"],
+    "correctAnswerIndex": 3,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "日本(にほん)へ行(い)っ○があります。",
+    "options": ["たの", "たこと", "たはず", "たもの"],
+    "correctAnswerIndex": 1,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "日本語(にほんご)を話(はな)そう○しています。",
+    "options": ["と", "って", "ように", "ために"],
+    "correctAnswerIndex": 0,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "○大金(たいきん)があったら、旅行(りょこう)に行(い)きます。",
+    "options": ["たら", "なら", "もしも", "れば"],
+    "correctAnswerIndex": 2,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "今日は家(いえ)から出(で)ること○できません。",
+    "options": ["こそ", "に", "は", "さえ"],
+    "correctAnswerIndex": 3,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "終(お)わっ○、連絡(れんらく)してください。",
+    "options": ["たら", "れば", "なら", "ても"],
+    "correctAnswerIndex": 0,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "来年(らいねん)日本(にほん)へ行く○です。",
+    "options": ["よう", "つもり", "ことに", "なのに"],
+    "correctAnswerIndex": 1,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "ここに着(つ)く○、あと10分(ふん)です。",
+    "options": ["は", "と", "までに", "までは"],
+    "correctAnswerIndex": 2,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "今日は何(なに)かいいことがありそうな○がする。",
+    "options": ["気(き)", "かんじ", "よう", "そう"],
+    "correctAnswerIndex": 0,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "待(ま)っている○本(ほん)を読みます。",
+    "options": ["と", "あいだに", "のに", "ながら"],
+    "correctAnswerIndex": 1,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "彼(かれ)が「いいね」○言(い)いました。",
+    "options": ["は", "を", "に", "って"],
+    "correctAnswerIndex": 3,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "今(いま)帰(かえ)っ○です。",
+    "options": ["た", "たばかり", "たのに", "たとたん"],
+    "correctAnswerIndex": 1,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "この店(みせ)は「おいしいラーメン」○店(みせ)です。",
+    "options": ["といった", "となる", "とき", "という"],
+    "correctAnswerIndex": 3,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "そんなことはできる○ない。",
+    "options": ["わけが", "のに", "ことが", "ものが"],
+    "correctAnswerIndex": 0,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "初心者(しょしんしゃ)○頑張(がんば)っています。",
+    "options": ["ながらも", "の", "のに", "けれども"],
+    "correctAnswerIndex": 0,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "この問題(もんだい)を解(と)く○、休(やす)みたいです。",
+    "options": ["ぐらいなら", "ほどなら", "くらいなら", "ばかりなら"],
+    "correctAnswerIndex": 2,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "努力(どりょく)した○成功(せいこう)しました。",
+    "options": ["だからこそ", "いのに", "からこそ", "のに"],
+    "correctAnswerIndex": 2,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "初心者(しょしんしゃ)○、上手(じょうず)ですね。",
+    "options": ["として", "であるのに", "だけあって", "にしては"],
+    "correctAnswerIndex": 3,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "○、時間(じかん)がないから。",
+    "options": ["よりも", "だって", "なので", "あの"],
+    "correctAnswerIndex": 1,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "勉強(べんきょう)○いいです。",
+    "options": ["でも", "から", "ながら", "つつ"],
+    "correctAnswerIndex": 0,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "その問題(もんだい)は考(かんが)える○難(むずか)しいです。",
+    "options": ["さえ", "まで", "ほど", "こそ"],
+    "correctAnswerIndex": 2,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "結果(けっか)は○、努力(どりょく)したことが大事(だいじ)です。",
+    "options": ["こそ", "ならば", "さえ", "ともかく"],
+    "correctAnswerIndex": 3,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "みなさんの○、成功(せいこう)しました。",
+    "options": ["おかげで", "せいで", "ばかりに", "どころか"],
+    "correctAnswerIndex": 0,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "値段(ねだん)の○、味(あじ)がいいです。",
+    "options": ["ほど", "さえ", "だけ", "わりに"],
+    "correctAnswerIndex": 3,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "初心者(しょしんしゃ)○、かなり練習(れんしゅう)しました。",
+    "options": ["ながら", "といっても", "にもかかわらず", "ものの"],
+    "correctAnswerIndex": 1,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "これは難(むずか)しい○と思(おも)います。",
+    "options": ["ばかりか", "のではないか", "くらいなら", "どころか"],
+    "correctAnswerIndex": 1,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "○失敗(しっぱい)しても、あきらめないでください。",
+    "options": ["たとえ", "やはり", "まさか", "せめて"],
+    "correctAnswerIndex": 0,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "嘘(うそ)をつい○ならない。",
+    "options": ["つつ", "ながら", "ては", "ものの"],
+    "correctAnswerIndex": 2,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "日本(にほん)の文化(ぶんか)は歴史(れきし)○、美(うつく)しいです。",
+    "options": ["はもちろん", "ばかりか", "にしても", "といえども"],
+    "correctAnswerIndex": 0,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "彼(かれ)は親切(しんせつ)で、○優(やさ)しいです。",
+    "options": ["ながら", "ものの", "ことに", "それに"],
+    "correctAnswerIndex": 3,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "試験(しけん)の○勉強(べんきょう)しています。",
+    "options": ["わけ", "もの", "ため", "こと"],
+    "correctAnswerIndex": 2,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "今(いま)はもう帰(かえ)った○。",
+    "options": ["ものの", "ながら", "ところ", "だろう"],
+    "correctAnswerIndex": 3,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "○疲(つか)れたので、寝(ね)ました。",
+    "options": ["ばかり", "さえ", "あまりに", "こそ"],
+    "correctAnswerIndex": 2,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "日本(にほん)○、桜(さくら)を思(おも)い出(だ)します。",
+    "options": ["なので", "よりも", "というと", "より"],
+    "correctAnswerIndex": 2,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "日本(にほん)に行く○、新(あたら)しいことを学(まな)びます。",
+    "options": ["より", "たびに", "けど", "たって"],
+    "correctAnswerIndex": 1,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "○行(い)かなければならない。",
+    "options": ["もしも", "どうしても", "あまりに", "おかげで"],
+    "correctAnswerIndex": 1,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "早(はや)く帰(かえ)った○いいです。",
+    "options": ["べきが", "はずが", "ほうが", "わけが"],
+    "correctAnswerIndex": 2,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "○、明日(あした)雨(あめ)が降(ふ)るかもしれない。",
+    "options": ["ひょっとして", "あるいは", "もし", "もしかしたら"],
+    "correctAnswerIndex": 3,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "これ○もっといい方法(ほうほう)があります。",
+    "options": ["から", "より", "に", "で"],
+    "correctAnswerIndex": 1,
+    "difficulty": "hard"
+  },
+  {
+    "questionText": "これを試(ため)してみ○どうですか。",
+    "options": ["たら", "ても", "ながら", "よう"],
+    "correctAnswerIndex": 0,
+    "difficulty": "hard"
+  }
+  ]
+
